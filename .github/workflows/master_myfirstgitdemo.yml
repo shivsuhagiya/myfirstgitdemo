@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'myfirstgitdemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_441EBB82BD2E440E925F2C5C6FD179AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A989FE1C658C40649DBFBEA58D006C06 }}
           package: '*.jar'
