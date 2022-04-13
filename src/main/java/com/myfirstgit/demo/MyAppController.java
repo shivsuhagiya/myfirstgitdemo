@@ -8,6 +8,6 @@ public class MyAppController {
 
     @GetMapping("/mywelcome-message")
     public String welcomeMessage(){
-        return "my first azure demo successfully deployed.";
+        return "my first azure demo deployed, first demo completed";
     }
 }
